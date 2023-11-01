@@ -1,0 +1,58 @@
+/* Ty0pe your code here */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&family=Poppins:ital,wght@0,400;1,100&display=swap');
+*{
+    margin: 0px;
+    
+}
+body{
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+    background-size: cover;
+    background-position-x: 200px; 
+    background-position-y: 50px;
+    background-repeat: no-repeat;
+    font-family: 'Nunito Sans', sans-serif;
+}
+  .heading{
+    color: black;
+    width: 350px;
+    height: 100px;
+}
+h1,h4{
+    text-shadow: 2px 2px #696969;
+}
+thead{
+    background-color: #F05033;
+}
+.out{
+    color: #939393;
+}
+table{
+    border-collapse: collapse;
+    background-color: white;
+    display: block;
+    width: 78%;
+    height: 50%;
+    word-spacing: 0px;
+}
+tr{
+    border-bottom: 1px solid #9b9898;
+    
+}
+.top{
+    background-color: #dddddd;
+}
+td{
+    padding: 3px 6px 3px 6px; 
+}
+.footer{
+    text-align: start;
+}
+.up{
+    display: none;
+    position: relative;
+    z-index: 3;
+
+}
+.line{
+    display: flex;
+}
